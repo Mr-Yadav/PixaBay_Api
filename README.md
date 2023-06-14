@@ -1,4 +1,6 @@
 # PixaBay_Api
+Going to improbve in 2-3 days
+
 Using PixaBay free Api to fetch images and displaying in our app using recyclerView
 
 
